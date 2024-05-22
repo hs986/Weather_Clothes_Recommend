@@ -1,3 +1,5 @@
+# Weather_service
+
 도시 이름을 입력받아 OpenWeatherMap API로부터 
 날씨 데이터를 가져옵니다.
 날씨 데이터를 JSON 형식으로 반환합니다.
